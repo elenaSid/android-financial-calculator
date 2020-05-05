@@ -1,4 +1,4 @@
-package com.elenasid.financialcalculator.ui.dashboard;
+package com.elenasid.financialcalculator.calculators;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.elenasid.financialcalculator.R;
 
-public class DashboardFragment extends Fragment {
+public class CalculatorsFragment extends Fragment {
 
     private DashboardViewModel dashboardViewModel;
 
